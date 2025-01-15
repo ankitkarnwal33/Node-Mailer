@@ -19,13 +19,17 @@ Follow these steps to run the project locally:
    ```bash
    cd projectname
    ```
+3. **Navigate to the project directory**:
 
-3. **Install dependencies**:
+Enter your email address and password from which you want to send emails to the users.
+If you are not using google's gmail then change host server also based on your email provider.
+
+5. **Install dependencies**:
    ```bash
    npm install
    ```
 
-4. **Run the application**:
+6. **Run the application**:
    ```bash
    node app.js
    ```
