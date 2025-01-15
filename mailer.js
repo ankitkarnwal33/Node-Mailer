@@ -25,7 +25,7 @@ async function sendMail(email, name, subject) {
       }
 
       const mailOptions = {
-        from: "viperankityt@gmail.com",
+        from: "sender_email_address@gmail.com",
         to: email,
         subject,
         html: renderdHtml,
