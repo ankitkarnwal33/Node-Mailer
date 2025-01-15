@@ -1,10 +1,7 @@
-# Project Name
-
-
+# Node Mailer
 
 ## 📄 Description
 
-Briefly describe your project:
 - Simple express app to send otp to the email address which is enterd by the client with name.
 
 ---
