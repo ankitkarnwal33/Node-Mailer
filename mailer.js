@@ -8,8 +8,8 @@ async function sendMail(email, name, subject) {
     const transporter = mailer.createTransport({
       service: "gmail",
       auth: {
-        user: "viperankityt@gmail.com",
-        pass: "jzuk iozn xqmd rmyx",
+        user: "sender_email_address@gmail.com",
+        pass: "jzuk iozn xqmd rmwx", // Generate app password from google account's App Passwords feature.
       },
     });
 
